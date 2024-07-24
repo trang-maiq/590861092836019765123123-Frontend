@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!",
+        "title": "Yay Finance: Your Path to Financial Freedom!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!",
+        "title": "Yay Finance: Your Path to Financial Freedom!"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!",
+        "title": "Yay Finance: Your Path to Financial Freedom!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!",
+        "title": "Yay Finance: Your Path to Financial Freedom!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!",
+        "title": "Yay Finance: Your Path to Financial Freedom!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!",
+        "title": "Yay Finance: Your Path to Financial Freedom!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!",
+        "title": "Yay Finance: Your Path to Financial Freedom!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!",
+        "title": "Yay Finance: Your Path to Financial Freedom!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!",
+        "title": "Yay Finance: Your Path to Financial Freedom!"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Yay Finance: Your Path to Financial Freedom!",
+  "subtitle": "Discover fresh insights and dynamic tips to take control of your financial future. Dive into Yay for an energized journey to smarter money management!"
+}
